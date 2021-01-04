@@ -104,6 +104,7 @@ alias cat="bat"
 alias xclip="xclip -selection clipboard"
 alias brightness="echo $1 > /sys/class/backlight/intel_backlight/brightness"
 alias discord='discord --no-sandbox'
+alias ls='exa'
 #alias okular="devour okular"
 
 # Add to path
