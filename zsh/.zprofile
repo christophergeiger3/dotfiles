@@ -1,1 +1,1 @@
-rand_wallpaper
+/home/christopher/Documents/scripts/rand_wallpaper
