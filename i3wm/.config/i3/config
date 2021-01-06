@@ -228,3 +228,4 @@ bar {
 bindsym $mod+Ctrl+semicolon workspace next
 bindsym $mod+Ctrl+j workspace prev
 bindsym $mod+Shift+w exec "$HOME/Documents/scripts/dither_switcher"
+bindsym $mod+Shift+d exec "$HOME/Documents/scripts/rand_wallpaper"
